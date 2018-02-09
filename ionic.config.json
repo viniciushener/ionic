@@ -1,0 +1,8 @@
+{
+  "name": "kpe",
+  "app_id": "2f5f04b2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
